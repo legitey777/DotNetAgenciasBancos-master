@@ -64,12 +64,3 @@ var agenciasByMunicipioEBanco = await GetAgenciasByMunicipioEBancoAsync("SAO PAU
 // agenciasByMunicipioEBanco.Value[0].Uf -> SP
 // agenciasByMunicipioEBanco.Value[0].Telefone -> 23929400
 
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
